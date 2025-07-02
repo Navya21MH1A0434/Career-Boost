@@ -1,6 +1,6 @@
 # Career-Boost
 
-A new Flutter project.
+A new Flutter project.CareerBoost is a mini mobile application developed using Flutter. The app provides basic information about popular IT courses such as Full Stack Development, Salesforce, and Data Analytics.
 
 ## Getting Started
 
